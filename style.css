@@ -7,3 +7,10 @@
     background-color: var(--cor-de-fundo);
     }
    
+#idnum1{
+
+background-color: blue; 
+height: 100px;
+padding: 5px;
+border-radius: 10px;
+ }
